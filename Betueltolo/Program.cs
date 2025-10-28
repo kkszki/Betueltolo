@@ -10,7 +10,7 @@ namespace Betueltolo
     {
         static string kod = "4567";
         static string abc = "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyzaábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz";
-        static string simaabc = "zyxwvüűúutsrqponmlkjíihgfeéedcbáazyxwvüűúutsrqponmlkjíihgfeéedcbáa";
+ 
 
         static char Eltolva(char betu, int szam)
         {
